@@ -4,6 +4,7 @@
 ### I'm currently studying...
 - Python
 - React.js
+- TypeScript
 
 <div><br>
 <img height="188em" src="https://github-readme-stats.vercel.app/api?username=OLi-byte&show_icons=true&theme=great-gatsby&include_all_commits=true"/>
@@ -21,7 +22,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40 width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40"/>
 </div>
 <br>
 
