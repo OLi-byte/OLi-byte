@@ -5,6 +5,7 @@
 - Python
 - React.js
 - TypeScript
+- Node.js
 
 <div><br>
 <img height="188em" src="https://github-readme-stats.vercel.app/api?username=OLi-byte&show_icons=true&theme=great-gatsby&include_all_commits=true"/>
