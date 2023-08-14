@@ -1,7 +1,7 @@
-# Welcome to my GitHub profile
-## Hi, i'm Douglas, but you can call me OLi :)
+# Bem vindo ao meu perfil do GitHub
+## Meu nome é Douglas, mas pode me chamar de Oli
 
-### I'm currently studying...
+### Atualmente estudando...
 - Python
 - React.js
 - TypeScript
@@ -13,7 +13,7 @@
 </div>
 <br>
 
-## Technologies I use:
+## Tecnologias que eu uso:
 <div style="display: inline_block">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40">
@@ -27,7 +27,7 @@
 </div>
 <br>
 
-## Contacts:
+## Contatos:
 <div>
 <a href="https://www.linkedin.com/in/douglas-oliveira-41bb65238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 <a href="https://www.instagram.com/olibyte.png/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
