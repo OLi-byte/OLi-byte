@@ -2,7 +2,8 @@
 ## Meu nome é Douglas, mas pode me chamar de Oli
 
 ### Atualmente estudando...
-- Python
+- Django
+- SQL
 - React.js
 - TypeScript
 - Node.js
