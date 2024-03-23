@@ -1,5 +1,5 @@
 # Bem vindo ao meu perfil do GitHub
-## Meu nome é Douglas, mas pode me chamar de Oli
+## Pode me chamar de Oli
 
 ### Atualmente estudando...
 - Django
