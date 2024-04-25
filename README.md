@@ -9,15 +9,16 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OLi-byte&bg_color=0d1117&color=48C9B0&line=73C6B6&point=73C6B6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h1 align="left">Olá, me chamo Douglas, mas pode me chamar de Oli.</h1>
+<h1 align="left">Olá, me chamo Douglas, mas pode me chamar de Oli 🦉</h1>
 
 ###
 
-<h2 align="left">Sou programador full stack, focado em JavaScript. <br><br>Atualmente estou estudando na UFRJ cursando ciência da computação.</h2>
+<h2 align="left">🖥️ Sou programador full stack, focado em JavaScript. <br><br>📖 Atualmente estou estudando na UFRJ cursando ciência da computação.</h2>
 
 ###
 
-<h3 align="left">Ferramentas e tecnologias que uso</h3>
+<br>
+<h2 align="left">🛠️ Ferramentas e tecnologias que uso</h2>
 
 ###
 
@@ -45,7 +46,8 @@
 
 ###
 
-<h3 align="left">Meus contatos</h3>
+<br>
+<h2 align="left">📩 Meus contatos</h2>
 
 ###
 
