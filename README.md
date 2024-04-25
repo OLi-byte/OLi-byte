@@ -13,7 +13,7 @@
 
 ###
 
-<h2 align="left">🖥️ Sou programador full stack, focado em JavaScript. <br><br>📖 Atualmente estou estudando na UFRJ cursando ciência da computação.</h2>
+<h2 align="left">🖥️ Sou programador full stack, focado em JavaScript. <br><br>📖 Atualmente, estou estudando na UFRJ, cursando Ciência da Computação.</h2>
 
 ###
 
@@ -52,10 +52,8 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="74" height="50" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="74" height="50" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="74" height="50" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="74" height="50" alt="telegram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="74" height="50" alt="linkedin logo" href="https://www.linkedin.com/in/douglas-salustrino-de-oliveira-41bb65238/"/>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="74" height="50" alt="gmail logo" href="douglas.salustrino.oliveira@gmail.com"/>
 </div>
 
 ###
