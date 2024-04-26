@@ -52,8 +52,15 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="74" height="50" alt="linkedin logo" href="https://www.linkedin.com/in/douglas-salustrino-de-oliveira-41bb65238/"/>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="74" height="50" alt="gmail logo" href="douglas.salustrino.oliveira@gmail.com"/>
+  <a href="https://www.linkedin.com/in/douglas-salustrino-de-oliveira-41bb65238/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="74" height="50" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:douglas.salustrino.oliveira@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="74" height="50" alt="gmail logo"  />
+  </a>
+  <a href="https://t.me/@OLI_D12" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="74" height="50" alt="telegram logo"  />
+  </a>
 </div>
 
 ###
